@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/stickers/created-colorful-lindsey-myers-createdcolorful-TzekQSzquAtE7agT5e" width="100"/>
 </div>
